@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://fir-tutorial-53edd.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">293606150176</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmOUcxU2vDhqXgrmZT-PjDXWN7XEdZyz0</string>
+    <string name="google_app_id" translatable="false">1:293606150176:android:9088bec6f69a1de8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmOUcxU2vDhqXgrmZT-PjDXWN7XEdZyz0</string>
+    <string name="google_storage_bucket" translatable="false">fir-tutorial-53edd.appspot.com</string>
+    <string name="project_id" translatable="false">fir-tutorial-53edd</string>
+</resources>
